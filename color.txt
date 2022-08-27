@@ -1,3 +1,7 @@
 I am green.     
 I am Blue.
+<<<<<<< HEAD
 I am black.
+=======
+I am white
+>>>>>>> branch1
